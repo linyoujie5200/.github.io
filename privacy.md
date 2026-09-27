@@ -1,3 +1,6 @@
+---
+permalink: /privacy/
+---
 # Data-collector 隐私政策
 
 Data-collector 是个人使用的备份程序。
